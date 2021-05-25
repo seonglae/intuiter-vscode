@@ -1,14 +1,17 @@
 # VStack
 <p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
 
-Gstack offers great extensions for Geology Developer.
-
-These extensions are language free, fit for everyone curated even you are not developer
+Cstack offers great extensions for Cloud Native Developers
 
 # Curated List
 
-- [**Extension**]() - Extension Description 
-
+- [**HCL**]() - HCL Language Support
+- [**go**]() - go Language Support
+- [**yaml**]() - yaml Language Support
+- [**kubernetes**]() - kubernetes Support
+- [**Terminal Intuiter**]() - terminal Shortcuts
+- [**Terminal Capture**]() - terminal Capture
+- [**Terminal Manager**]() - terminal Manager
 
 
 # Other Stacks
@@ -16,13 +19,13 @@ These extensions are language free, fit for everyone curated even you are not de
 
 - [GStack](https://marketplace.visualstudio.com/items?itemName=seonglae.gstack) - Geology VSCode Extension Pack
 
-- [CStack](https://marketplace.visualstudio.com/items?itemName=seonglae.cstack) - Cloud Native Extension Pack
+- [CStack](https://marketplace.visualstudio.com/items?itemName=seonglae.cstack) - Cloud Native VSCode Extension Pack
 
-- [FStack](https://marketplace.visualstudio.com/items?itemName=seonglae.fstack) - Frontend Developer Extension Pack
+- [FStack](https://marketplace.visualstudio.com/items?itemName=seonglae.fstack) - Frontend Developer VSCode Extension Pack
 
-- [EStack](https://marketplace.visualstudio.com/items?itemName=seonglae.estack) - File Explorer Extension Pack
+- [EStack](https://marketplace.visualstudio.com/items?itemName=seonglae.estack) - File Explorer VSCode Extension Pack
 
-- [TStack](https://marketplace.visualstudio.com/items?itemName=seonglae.tstack) - Simple Pretty Theme Extension Pack
+- [TStack](https://marketplace.visualstudio.com/items?itemName=seonglae.tstack) - Simple Pretty Theme VSCode Extension Pack
 
 - [PPack](https://marketplace.visualstudio.com/items?itemName=seonglae.pstack) - Productivity VSCode Extension Pack for Nerds
 

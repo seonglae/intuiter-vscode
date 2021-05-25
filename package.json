@@ -1,18 +1,18 @@
 {
-  "name": "gstack",
-  "displayName": "GStack",
-  "description": "Language Independant VSCode Default Development Stack of Extensions",
+  "name": "cstack",
+  "displayName": "CStack",
+  "description": "Cloud Native VSCode Extension Pack",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.x.x"
   },
   "galleryBanner": {
-    "color": "#242426",
+    "color": "#0064ff",
     "theme": "dark"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/gstack"
+    "url": "https://github.com/seonglae/cstack"
   },
   "license": "MIT",
   "publisher": "seonglae",
@@ -24,8 +24,12 @@
     "geology"
   ],
   "extensionPack": [
-    "SmartMonkey.geotools",
-    "jumpinjackie.vscode-map-preview",
-    "RandomFractalsInc.geo-data-viewer"
+    "wholroyd.HCL",
+    "golang.go",
+    "redhat.vscode-yaml",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "seonglae.terminal-intuiter",
+    "devwright.vscode-terminal-capture",
+    "saurabh.terminal-manager"
   ]
 }
