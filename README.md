@@ -1,5 +1,5 @@
 # CStack
-<p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
+<p align="center"><img width="200"alt="cstack" src="images/logo.png"/></p>
 
 Cstack offers great extensions for Cloud Native Developers
 
