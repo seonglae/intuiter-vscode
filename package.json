@@ -21,7 +21,11 @@
     "Extension Packs"
   ],
   "keywords": [
-    "geology"
+    "cloud",
+    "cloud native",
+    "infrastructure",
+    "infra",
+    "terminal"
   ],
   "extensionPack": [
     "wholroyd.HCL",

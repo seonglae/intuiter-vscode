@@ -21,7 +21,7 @@ Cstack offers great extensions for Cloud Native Developers
 
 - [**CStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.cstack) - Cloud Native VSCode Extension Pack
 
-- [**FStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.fstack) - Frontend Developer VSCode Extension Pack
+- [**WStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.wstack) - Web Developer VSCode Extension Pack
 
 - [**EStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.estack) - File Explorer VSCode Extension Pack
 
