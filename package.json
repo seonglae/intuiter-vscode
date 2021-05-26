@@ -2,12 +2,12 @@
   "name": "cstack",
   "displayName": "CStack",
   "description": "Cloud Native VSCode Extension Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.x.x"
   },
   "galleryBanner": {
-    "color": "#0064ff",
+    "color": "#424242",
     "theme": "dark"
   },
   "repository": {
