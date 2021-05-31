@@ -2,7 +2,7 @@
   "name": "cstack",
   "displayName": "CStack",
   "description": "Cloud Native VSCode Extension Pack",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.x.x"
   },
@@ -31,7 +31,6 @@
     "wholroyd.HCL",
     "golang.go",
     "redhat.vscode-yaml",
-    "ms-kubernetes-tools.vscode-kubernetes-tools",
     "seonglae.terminal-intuiter",
     "devwright.vscode-terminal-capture",
     "saurabh.terminal-manager"
