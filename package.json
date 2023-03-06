@@ -4,7 +4,7 @@
   "description": "Intuiter VSCode Extension Pack",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.75.1"
+    "vscode": "^1.76.0"
   },
   "galleryBanner": {
     "color": "#242426",
